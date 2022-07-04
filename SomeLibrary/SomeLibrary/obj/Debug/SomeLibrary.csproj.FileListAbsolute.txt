@@ -1,0 +1,5 @@
+E:\Richter_CSharp_4.5\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.dll
+E:\Richter_CSharp_4.5\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.pdb
+E:\Richter_CSharp_4.5\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.csproj.CoreCompileInputs.cache
+E:\Richter_CSharp_4.5\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.dll
+E:\Richter_CSharp_4.5\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.pdb
